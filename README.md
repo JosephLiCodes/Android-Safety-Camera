@@ -13,8 +13,6 @@
   - [About the Author](#about-the-author)
   - [Built With](#built-with)
   - [Technologies Used](#technologies-used)
-  - [Practices Used](#practices-used)
-  - [Deployed Link](#deployed-link)
   - [Contributing](#contributing)
   - [License](#license)
   - [Questions](#questions)
@@ -44,13 +42,6 @@ The safety camera app is an android app I created so you can safely record yours
 * [Google Chrome Developer Tools](https://developer.chrome.com/docs/devtools/)
   
 
-## Practices Used
-
-* [Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/)
-  
-## Deployed Link
-
-* [http://gradeguesserai.herokuapp.com/](http://gradeguesserai.herokuapp.com/) 
 
 ## Contributing
 
